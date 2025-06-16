@@ -1,7 +1,8 @@
 ## Hi there 👋 Soy  Daniel
 ---
 
-:Computer: **Ingeníero en Tecnologías de la Información y Comunicaciones**
+:computer: **Ingeníero en Tecnologías de la Información y Comunicaciones**
+
 
 ## Conocimiento de Software 
 * Programación Orientada a Objetos - Java , JavaScript
