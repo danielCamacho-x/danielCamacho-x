@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 Soy  Daniel
+---
 
-<!--
-**danielCamacho-x/danielCamacho-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:Computer: **Ingeníero en Tecnologías de la Información y Comunicaciones**
 
-Here are some ideas to get you started:
+## Conocimiento de Software 
+* Programación Orientada a Objetos - Java , JavaScript
+* Frontend: HTML , CSS , JavaScript , React.js
+* Backend: Node.js,  Express 
+* Administración de BD: SQL - MySQL , SQL Server 
+* Administracion de redes (Cisco)
+* Git y GitHub
+## Certificados
+* CCNAv7: Introduction to Networks
+* CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
