@@ -1,20 +1,18 @@
-name: Update README2
+name: Recent activity
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
-    name: Update Profile README
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Clona el historial completo del repositorio
 
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://github.com/YOUR_USERNAME.atom"
