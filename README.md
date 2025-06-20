@@ -15,10 +15,8 @@
 * CCNAv7: Introduction to Networks
 * CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas
 
-
-
 # :zap: Actividades recientes (commit's)
-<!-- START SETION:activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--END_SECTION:activity -->
 
